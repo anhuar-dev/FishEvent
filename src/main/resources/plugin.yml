@@ -1,0 +1,5 @@
+name: FishEvent
+version: '1.0-SNAPSHOT'
+main: dev.anhuar.fishEvent.FishEvent
+api-version: '1.21'
+authors: [ anhuar ruiz, myclass ]
