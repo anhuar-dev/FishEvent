@@ -2,4 +2,7 @@ name: FishEvent
 version: '1.0-SNAPSHOT'
 main: dev.anhuar.fishEvent.FishEvent
 api-version: '1.21'
-authors: [ anhuar ruiz, myclass ]
+
+authors: [ anhuar dev, anhuar ruiz, myclass ]
+web: 'https://anhuar.dev'
+description: 'A plugin that adds a fish event to the game.'
