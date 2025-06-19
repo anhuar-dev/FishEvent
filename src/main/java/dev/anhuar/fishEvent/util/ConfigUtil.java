@@ -4,7 +4,7 @@ package dev.anhuar.fishEvent.util;
  * ========================================================
  * FishEvent - ConfigUtil.java
  *
- * @author Anhuar Ruiz | Anhuar Dev
+ * @author Anhuar Ruiz | Anhuar Dev | myclass
  * @web https://anhuar.dev
  * @date 18/06/25
  *
